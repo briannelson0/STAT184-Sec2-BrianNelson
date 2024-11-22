@@ -1,0 +1,4 @@
+Information about the directory:
+1. There are 5 files(including this one) and 2 folder (Code and Data) In the Directory.
+2. The First folder in the directory is the code folder. In here is the meat of the project. This is where my R script lives that does the analysis of the penguins and baby names. Next is the Data file. While I did not populate this with any data, because all the data I use can be accessed from the internet, it still has some important files. 
+3. The overall purpose of the directory is to demonstrate my familiarity with Github. 
